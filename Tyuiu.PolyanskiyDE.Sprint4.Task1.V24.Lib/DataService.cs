@@ -20,7 +20,7 @@ namespace Tyuiu.PolyanskiyDE.Sprint4.Task1.V24.Lib
                     multArray *= array[i];
                 }
             }
-            return multArray;
+            return multArray; 
         }
     }
 }
