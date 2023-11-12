@@ -27,7 +27,7 @@ namespace Tyuiu.PolyanskiyDE.Sprint4.Task3.V10.Lib
                     }
                 }
             }
-            return res;
+            return res; 
         }
     }
 }
