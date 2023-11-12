@@ -20,7 +20,7 @@ namespace Tyuiu.PolyanskiyDE.Sprint4.Task2.V8.Lib
                     sumArray += array[i];
                 }
             }
-            return sumArray;
+            return sumArray; 
         }
     }
 }
