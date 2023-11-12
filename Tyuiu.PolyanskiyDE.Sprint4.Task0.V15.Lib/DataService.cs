@@ -20,7 +20,7 @@ namespace Tyuiu.PolyanskiyDE.Sprint4.Task0.V15.Lib
                     c *= array[i];
                 }
             }
-            return c;
+            return c; 
         }
     }
 }
